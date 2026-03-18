@@ -4,6 +4,7 @@ This Python program simulates a queue using a list, removes the first two elemen
 
 ## 🎯 Aim
 
+
 To write a Python program to:
 - Accept user inputs into a list (queue)
 - Remove the first two elements (simulating dequeue)
